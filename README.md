@@ -4,7 +4,7 @@ Hi, I’m @Alua-Design
 🌱 I’m currently learning React and Figma to build interactive web applications.
 💞️ I’m looking to collaborate on open-source design projects and hackathons.
 📫 How to reach me [alwangaone@gmail.com]
-😄 Pronouns: she/her
+😄 Pronouns: He
 ⚡ Fun fact: I love to experiment with different design styles and techniques
 <!---
 Alua-Design/Alua-Design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
